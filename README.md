@@ -313,12 +313,13 @@ This model can be used for:
 ---
 
 ## 👨‍💻 Author
-Raj Antala 
-🎓 PGDM Student in AI and Data Science 
-🏫 Adani Institute of Digital Technology Management (AIDTM) 
-📍 Gandhinagar, India 
-📧 antalaraj214@gmail.com 
-🔗 www.linkedin.com/in/antalaraj 
+Raj Antala  
+🎓 PGDM Student in AI and Data Science  
+🏫 Adani Institute of Digital Technology Management (AIDTM)  
+📍 Gandhinagar, India  
+📧 antalaraj214@gmail.com  
+🔗 www.linkedin.com/in/antalaraj
+
 Passionate about building intelligent systems and real-world AI applications.
 
 ---
