@@ -17,26 +17,6 @@ The final model achieves **high predictive accuracy (R² = 0.978)**, demonstrati
 
 ---
 
-## 🎯 Business Objective
-
-The goal is to answer key business questions such as:
-
-* Which content types generate the highest engagement?
-* Which platforms perform best?
-* Does posting time affect engagement?
-* Do paid promotions improve engagement quality?
-* What factors most strongly influence engagement rate?
-* Can engagement rate be predicted using machine learning?
-
-This helps optimize:
-
-* Content strategy
-* Posting schedule
-* Platform selection
-* Marketing performance
-
----
-
 ## 📂 Project Structure
 
 ```
@@ -332,5 +312,3 @@ The optimized Random Forest model achieved excellent performance and identified 
 
 ---
 
-
-to make it look like a **top-tier data science portfolio project.**
